@@ -1,4 +1,5 @@
 {
+  "build_entry_point": "docs",
   "docsets_to_publish": [
     {
       "docset_name": "ValidationTest",
@@ -7,7 +8,7 @@
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
