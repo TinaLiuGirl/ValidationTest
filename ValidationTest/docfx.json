@@ -39,7 +39,9 @@
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
-    "template": [],
+    "template": [
+      "default", "rules"
+    ],
     "dest": "ValidationTest",
     "markdownEngineName": "markdig"
   }
