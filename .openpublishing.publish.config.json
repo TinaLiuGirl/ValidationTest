@@ -27,11 +27,10 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft",
-      "branch": "op-internal",
+      "branch": "master",
       "branch_mapping": {}
     }
   ],
-  "package_version": "1.48.0-test-201803271651",
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false
 }
