@@ -18,6 +18,7 @@
       "template_folder": "_themes"
     }
   ],
+  "enable_custom_validation": true,
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
