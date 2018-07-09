@@ -10,7 +10,6 @@ ms.topic: contributor-guide
 ms.custom: internal-contributor-guide
 ---
 
-
 # GitHub contribution workflow for major or long-running changes
 
 ## Overview
